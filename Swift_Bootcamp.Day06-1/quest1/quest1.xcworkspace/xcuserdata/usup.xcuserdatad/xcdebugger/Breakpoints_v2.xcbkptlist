@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "39127655-F164-4875-BD5C-9705CE4A93D0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97923BAE-A98B-48F1-8F34-A189574DCCB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quest1/View/Recipe/RecipeList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EEFE8B6-3E94-410D-AA48-753DC41F0170"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quest1/View/Recipe/RecipeList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8EEFE8B6-3E94-410D-AA48-753DC41F0170 - 1243743754654a9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (quest1.Recipe) -&gt; SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;RealmSwift.Results&lt;quest1.Recipe&gt;, Swift.String, SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in quest1.RecipeList.body.getter : some"
+                  moduleName = "quest1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/day06/quest1/quest1/View/Recipe/RecipeList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8EEFE8B6-3E94-410D-AA48-753DC41F0170 - 2b79beab4ec69cae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; quest1.RecipeDetail in closure #1 (quest1.Recipe) -&gt; SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;RealmSwift.Results&lt;quest1.Recipe&gt;, Swift.String, SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in quest1.RecipeList.body.getter : some"
+                  moduleName = "quest1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/day06/quest1/quest1/View/Recipe/RecipeList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "8EEFE8B6-3E94-410D-AA48-753DC41F0170 - 60583402a3102f66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;RealmSwift.Results&lt;quest1.Recipe&gt;, Swift.UInt64, SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in quest1.RecipeList.body.getter : some"
+                  moduleName = "quest1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/day06/quest1/quest1/View/Recipe/RecipeList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "8EEFE8B6-3E94-410D-AA48-753DC41F0170 - 1243743754654b74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (quest1.Recipe) -&gt; SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;RealmSwift.Results&lt;quest1.Recipe&gt;, Swift.UInt64, SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in quest1.RecipeList.body.getter : some"
+                  moduleName = "quest1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/day06/quest1/quest1/View/Recipe/RecipeList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8EEFE8B6-3E94-410D-AA48-753DC41F0170 - 60583402a3102f66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;RealmSwift.Results&lt;quest1.Recipe&gt;, Swift.UInt64, SwiftUI.NavigationLink&lt;quest1.RecipeRow, quest1.RecipeDetail&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in quest1.RecipeList.body.getter : some"
+                  moduleName = "quest1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usup/Desktop/swift/day06/quest1/quest1/View/Recipe/RecipeList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "986F80AA-9812-4FB9-B924-74ED33552868"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "quest1/View/Recipe/RecipeDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

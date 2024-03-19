@@ -1,0 +1,6 @@
+framework module Pods_quest7 {
+  umbrella header "Pods-quest7-umbrella.h"
+
+  export *
+  module * { export * }
+}
